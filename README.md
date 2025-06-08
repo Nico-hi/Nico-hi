@@ -18,7 +18,7 @@
   <a href="https://instagram.com/@the_nicowooow" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@the_nicowooow" height="40" width="40"/>
   </a>
-  <a href="https://www.youtube.com/c/the_nicowooow" target="blank">
+  <a href="https://www.youtube.com/@nicolaspezo9590" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the_nicowooow" height="40" width="40"/>
   </a>
   <a href="https://discord.gg/nicotino_" target="blank">
