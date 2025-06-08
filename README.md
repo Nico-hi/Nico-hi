@@ -15,7 +15,7 @@
 
 ### 📡 Connect with me:
 <p align="center">
-  <a href="https://instagram.com/@the_nicowooow" target="blank">
+  <a href="https://www.instagram.com/the_nicowooow/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@the_nicowooow" height="40" width="40"/>
   </a>
   <a href="https://www.youtube.com/@nicolaspezo9590" target="blank">
