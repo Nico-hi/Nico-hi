@@ -29,7 +29,6 @@
 ---
 
 ### 🛠️ Languages and Tools:
-### 🛠️ Languages and Tools:
 <p align="center">
   <!-- Lenguajes de Programación -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
