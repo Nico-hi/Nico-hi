@@ -47,16 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nico-hi&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
----
-
-### 🎯 Fun Fact:
-> "Programming is like magic, but instead of spells, we use logic!"
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nico-hi&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-hi&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
@@ -64,6 +54,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nico-hi&theme=radical" alt="GitHub Streak"/>
 </p>
+
+
+---
+
+### 🎯 Fun Fact:
+> "Programming is like magic, but instead of spells, we use logic!"
+
+---
 
 
 
